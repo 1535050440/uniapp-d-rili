@@ -1,1 +1,0 @@
-<view class="content"><view class="wrapper">d-rili日历 - 可左右滑动</view><d-rili vue-id="8dd740cc-1" bind:__l="__l"></d-rili></view>

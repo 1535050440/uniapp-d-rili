@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "uni-app",
-  "usingComponents": {
-    "d-rili": "/components/d-rili/d-rili"
-  }
-}
